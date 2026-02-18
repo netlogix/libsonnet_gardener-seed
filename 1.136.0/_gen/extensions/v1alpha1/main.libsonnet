@@ -1,0 +1,16 @@
+{
+  local d = (import 'doc-util/main.libsonnet'),
+  '#':: d.pkg(name='v1alpha1', url='', help=''),
+  backupBucket: (import 'backupBucket.libsonnet'),
+  backupEntry: (import 'backupEntry.libsonnet'),
+  bastion: (import 'bastion.libsonnet'),
+  cluster: (import 'cluster.libsonnet'),
+  containerRuntime: (import 'containerRuntime.libsonnet'),
+  controlPlane: (import 'controlPlane.libsonnet'),
+  dnsRecord: (import 'dnsRecord.libsonnet'),
+  extension: (import 'extension.libsonnet'),
+  infrastructure: (import 'infrastructure.libsonnet'),
+  network: (import 'network.libsonnet'),
+  operatingSystemConfig: (import 'operatingSystemConfig.libsonnet'),
+  worker: (import 'worker.libsonnet'),
+}
