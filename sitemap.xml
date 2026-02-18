@@ -2,78 +2,150 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/backupBucket/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/backupEntry/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/bastion/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/cluster/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/containerRuntime/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/controlPlane/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/dnsRecord/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/extension/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/infrastructure/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/network/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/operatingSystemConfig/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/extensions/v1alpha1/worker/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/resources/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/resources/v1alpha1/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.135.1/resources/v1alpha1/managedResource/</loc>
-         <lastmod>2026-02-12</lastmod>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/backupBucket/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/backupEntry/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/bastion/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/cluster/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/containerRuntime/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/controlPlane/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/dnsRecord/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/extension/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/infrastructure/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/network/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/operatingSystemConfig/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/extensions/v1alpha1/worker/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/resources/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/resources/v1alpha1/</loc>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://gh.netlogix.de/libsonnet_gardener-seed/1.136.0/resources/v1alpha1/managedResource/</loc>
+         <lastmod>2026-02-18</lastmod>
     </url>
 </urlset>
